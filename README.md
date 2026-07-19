@@ -14,7 +14,7 @@ SQLite, DB Browser for SQLite
 
 ## Key findings
 - Salary deposits were the largest inflow category
-- [Add one more finding here based on your Query 2 results - which customer had the highest balance?]
+
 
 ## Files
 - queries.sql - all SQL queries used in this analysis
